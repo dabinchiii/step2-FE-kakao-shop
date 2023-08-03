@@ -1,0 +1,18 @@
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.radio-option-img {
+  /* width: 100px; */
+  /* height: 100px; */
+  width: 3em;
+  height: 3em;
+}
+
+.breadcrumb {
+  position: absolute;
+  bottom: 0;
+}
